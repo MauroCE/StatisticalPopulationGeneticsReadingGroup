@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>population-genetics on A Hugo website</title>
+    <link>/categories/population-genetics/</link>
+    <description>Recent content in population-genetics on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/population-genetics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to the Statistical Population Genetics Reading Group!</title>
+      <link>/2020/04/29/welcome-to-the-statistical-population-genetics-reading-group/</link>
+      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/04/29/welcome-to-the-statistical-population-genetics-reading-group/</guid>
+      <description>Hi! This website will contain schedule, past papers and other information about the Statistical Population Genetics Reading Group at the University of Bristol.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,12 @@
+---
+title: "Thank You!"
+author: "Mauro Camara Escudero"
+date: "4/29/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Thank you! Your response has been submitted!

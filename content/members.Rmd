@@ -1,0 +1,19 @@
+---
+title: "Members"
+author: "Mauro Camara Escudero"
+date: "4/29/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+The current members of the Statistical Population Genetics Reading Group are
+
+```{r, echo=FALSE}
+members <- data.frame(
+  Members = c("Mark Beaumont", "Daniel Lawson", "Feng Yu", "Mauro Camara Escudero", "Wenyang Lyu")
+)
+knitr::kable(members)
+```

@@ -1,0 +1,17 @@
+---
+title: Welcome to the Statistical Population Genetics Reading Group!
+author: Mauro Camara Escudero
+date: '2020-04-29'
+slug: welcome-to-the-statistical-population-genetics-reading-group
+categories:
+  - welcome
+  - statistical-genetics
+  - statistical-population-genetics
+  - population-genetics
+  - reading group
+tags:
+  - statistical-population-genetics
+  - welcome
+  - reading-group
+---
+Hi! This website will contain schedule, past papers and other information about the Statistical Population Genetics Reading Group at the University of Bristol. 

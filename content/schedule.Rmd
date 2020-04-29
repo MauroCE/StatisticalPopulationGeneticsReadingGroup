@@ -1,0 +1,12 @@
+---
+title: "Schedule"
+author: "Mauro Camara Escudero"
+date: "4/29/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+The schedule of the Statistical Population Genetics Reading Group will be posted here.
